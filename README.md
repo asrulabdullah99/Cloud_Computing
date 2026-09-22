@@ -33,9 +33,9 @@ Mata kuliah ini memberikan pemahaman komprehensif, teoretis, dan analitis mengen
 
 *Catatan Waktu Beban Belajar SKS Teori: Tatap Muka (TM) 3x50 menit, Penugasan Terstruktur (PT) 3x60 menit, Belajar Mandiri (BM) 3x60 menit.*
 
-| Minggu | Kemampuan Akhir yang Diharapkan (Sub-CPMK) | Materi Pembelajaran | Bentuk & Metode Pembelajaran | Penilaian (Indikator & Kriteria) | Bobot |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | Mampu menjelaskan evolusi dan esensi Komputasi Awan. | 1. Evolusi Sistem Terdistribusi ke *Cloud*<br>2. Definisi & 5 Karakteristik Esensial NIST<br>3. Pemain utama penyedia layanan awan global | Kuliah Interaktif, Diskusi<br>*(TM: 3x50", PT: 3x60")* | Ketepatan menjelaskan konsep dasar dan pergeseran paradigma IT tradisional ke *cloud*. | 3% |
+| Minggu | Kemampuan Akhir yang Diharapkan (Sub-CPMK) | Materi Pembelajaran | Bentuk & Metode Pembelajaran | Penilaian (Indikator & Kriteria) | Bobot | Materi |
+| :--- | :--- | :--- | :--- | :--- | :--- |:--- |
+| **1** | Mampu menjelaskan evolusi dan esensi Komputasi Awan. | 1. Evolusi Sistem Terdistribusi ke *Cloud*<br>2. Definisi & 5 Karakteristik Esensial NIST<br>3. Pemain utama penyedia layanan awan global | Kuliah Interaktif, Diskusi<br>*(TM: 3x50", PT: 3x60")* | Ketepatan menjelaskan konsep dasar dan pergeseran paradigma IT tradisional ke *cloud*. | 3% | [Week_1](./Week_1/.pptx) |
 | **2** | Mampu membedakan model layanan komputasi awan. | 1. *Infrastructure as a Service* (IaaS)<br>2. *Platform as a Service* (PaaS)<br>3. *Software as a Service* (SaaS)<br>4. *Backend as a Service* (BaaS) | Kuliah, Studi Kasus Analisis Layanan<br>*(TM: 3x50", BM: 3x60")* | Ketepatan memetakan layanan komersial ke dalam kategori IaaS, PaaS, atau SaaS. | 3% |
 | **3** | Mampu mengevaluasi model *deployment cloud* sesuai kebutuhan organisasi. | 1. *Public, Private, Hybrid, & Community Cloud*<br>2. Konsep *Multi-cloud Architecture*<br>3. Analisis *trade-off* (Biaya vs Kontrol) | Kuliah Interaktif, *Problem-based Learning*<br>*(TM: 3x50", PT: 3x60")* | Argumen kritis pemilihan model deployment berdasarkan skenario kasus fiktif. | 5% |
 | **4** | Mampu menganalisis teknologi dasar virtualisasi perangkat keras. | 1. Konsep *Hypervisor* (Type 1 *Bare-metal* vs Type 2 *Hosted*)<br>2. Isolasi *Resource* (CPU, RAM, Network)<br>3. *Virtual Machine* (VM) vs Fisik | Kuliah Interaktif, Presentasi Kelompok<br>*(TM: 3x50", BM: 3x60")* | Kejelasan mendeskripsikan peran hypervisor dalam membagi sumber daya fisik. | 5% |
