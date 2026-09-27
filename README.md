@@ -1,12 +1,11 @@
 # RENCANA PEMBELAJARAN SEMESTER (RPS)
 **BERBASIS OUTCOME-BASED EDUCATION (OBE)**
 
-**Institusi:** Universitas Muhammadiyah Pontianak  
 **Program Studi:** S1 Informatika  
 **Mata Kuliah:** Komputasi Awan (*Cloud Computing*)  
 **Bobot SKS:** 3 SKS (3 Teori)  
-**Semester:** Ganjil / Genap  
-**Rumpun Mata Kuliah:** Sistem Jaringan Cerdas / Rekayasa Perangkat Lunak  
+**Semester:** Ganjil
+**Rumpun Mata Kuliah:** Rekayasa Perangkat Lunak  
 **Prasyarat:** Jaringan Komputer, Sistem Operasi
 
 ---
